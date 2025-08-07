@@ -20,7 +20,7 @@ I'm a passionate **Full Stack Developer** with expertise in web technologies, mo
 
 ---
 
-## 🛠Languages and Tools
+## Tech Stack
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
