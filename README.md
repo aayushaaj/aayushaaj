@@ -3,16 +3,18 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;Exploring+and+Learning" alt="Typing SVG" />
 </div>
+## About Me
 -->
 ---
-<!--
-## About Me
 
-I'm a passionate **Full Stack Developer** with expertise in web technologies, mobile development, and database management. I enjoy creating innovative solutions and turning ideas into reality. -->
+- 🌱 Learning, exploring and iterating.
 
-- 🔭 Currently working on **full-stack applications** and **web-development**
+
+
+
 <!--
-- 🌱 Always learning **new technologies** and **best practices** 
+- 🔭 Currently working on 
+
 - 💬 Ask me about **React**, **Django**, **Mobile Development**, and **Database Design**
 -->
 
@@ -101,11 +103,10 @@ I'm a passionate **Full Stack Developer** with expertise in web technologies, mo
 </div>
 
 ---
-<!--
-## 🤝 Let's Connect
+<!-- Let's Connect -->
 
 <div align="center">
   <a href="mailto:aayushajaspau@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div> -->
+</div> 
