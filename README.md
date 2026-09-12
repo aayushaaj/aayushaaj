@@ -49,11 +49,5 @@ I build and experiment with **AI/ML systems across computer vision, NLP, LLMs, a
 
 
 
-<!--
-- 🔭 Currently working on 
 
-- 💬 Ask me about **React**, **Django**, **Mobile Development**, and **Database Design**
--->
-
-- 📫 Reach me at: **aayushajaspau@gmail.com**
 
