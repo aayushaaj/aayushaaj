@@ -1,6 +1,6 @@
 # Hii there, I'm Aayusha Jaspau.
 
-Computer Engineering Student @ Kathmandu University**
+Computer Engineering Student @ Kathmandu University
 
 I build and experiment with **AI/ML systems across computer vision, NLP, LLMs, and backend engineering** — from model training and evaluation to production-oriented applications.
 
